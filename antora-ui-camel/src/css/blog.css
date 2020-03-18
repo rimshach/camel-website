@@ -1,4 +1,5 @@
 .blog {
+  color: var(--doc-font-color);
   max-width: var(--static-max-width);
   margin: var(--static-margin);
 }
